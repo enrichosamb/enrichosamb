@@ -1,49 +1,12 @@
-```markdown
-# 👋 Hi, I'm [Your Name]!
 
-- 👨‍💼 [Your Profession, e.g., Software Engineer] sharing about my journey and learnings in tech.
-- 🌐 Studied **[Your Major, e.g., Computer Science]** at **[Your University/Institute Name]**.
-- 🍕 Making projects and content about **[Your Topics, e.g., tech, programming, and productivity]**.
-- 🌿 #learninginpublic in my **[Digital Garden](#)**.
-- 🧬 Currently learning about **[Your Learning Topics, e.g., data analytics, AI, etc.]**.
-
----
-
-## 📊 [Your Name]'s GitHub Stats
-
-| **Metrics**        | **Values** |
-|---------------------|------------|
-| Total Stars Earned | 20         |
-| Total Commits      | 241        |
-| Total PRs          | 0          |
-| Total Issues       | 2          |
-| Contributed To     | 0          |
+# 💻 Tech Stack:
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=enrichoalkalas01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=enrichoalkalas01&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enrichoalkalas01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=enrichoalkalas01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Tech Stack
-
-| **Tech**            | **Logo**                |
-|---------------------|-------------------------|
-| HTML5               | 🌐                  |
-| CSS3                | 🌟                 |
-| JavaScript          | 🌨️           |
-| Python              | 🤖                 |
-| React               | ⚙️                   |
-| TypeScript          | 🖊️           |
-| GraphQL             | ✨                      |
-| TailwindCSS         | 🛏                 |
-| Styled Components   | 🌼                 |
-| Figma               | 🖌                 |
-| Notion              | 🔖                 |
-
----
-
-## 🌟 Let's Connect!
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
-Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
